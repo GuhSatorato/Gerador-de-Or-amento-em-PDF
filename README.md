@@ -23,12 +23,12 @@ Este projeto é uma ferramenta simples para gerar orçamentos personalizados em 
 
 2° Navegue até a pasta do projeto:
    ```bash
-    cd gerador-orcamento-pdf
+   cd gerador-orcamento-pdf
    ````
 
 3° Instale a biblioteca FPDF:
    ```bash
-    pip install fpdf
+   pip install fpdf
    ````
 
 Esse modelo serve como um guia básico para o repositório do GitHub e pode ser ajustado conforme a necessidade do projeto.
