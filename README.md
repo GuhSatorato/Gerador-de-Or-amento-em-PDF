@@ -1,4 +1,4 @@
-# Gerador de Orçamento em PDF em Python
+# Gerador de Orçamento em PDF com Python
 
 Este projeto é uma ferramenta simples para gerar orçamentos personalizados em PDF. Com ele, é possível calcular e organizar informações como a descrição do projeto, horas estimadas, valor cobrado por hora e prazo de entrega, gerando um documento profissional automaticamente.
 
